@@ -1,0 +1,56 @@
+---
+base: lua51
+lua_versions:
+  - luau
+globals:
+  game:
+    type: any
+    property: read-only
+  script:
+    type: any
+    property: read-only
+  workspace:
+    type: any
+    property: read-only
+  Instance:
+    type: any
+    property: read-only
+  Color3:
+    type: any
+    property: read-only
+  Vector3:
+    type: any
+    property: read-only
+  Vector2:
+    type: any
+    property: read-only
+  CFrame:
+    type: any
+    property: read-only
+  UDim:
+    type: any
+    property: read-only
+  UDim2:
+    type: any
+    property: read-only
+  Enum:
+    type: any
+    property: read-only
+  TweenInfo:
+    type: any
+    property: read-only
+  PhysicalProperties:
+    type: any
+    property: read-only
+  BrickColor:
+    type: any
+    property: read-only
+  task:
+    type: any
+    property: read-only
+  typeof:
+    type: any
+    property: read-only
+  RaycastParams:
+    type: any
+    property: read-only
